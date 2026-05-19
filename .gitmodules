@@ -1,0 +1,18 @@
+[submodule "MonoAlg3D_C"]
+	path = MonoAlg3D_C
+	url = git@github.com:DaniDanyDani/MonoAlg3D_C.git
+[submodule "external/MonoAlg3D_C"]
+	path = external/MonoAlg3D_C
+	url = git@github.com:DaniDanyDani/MonoAlg3D_C.git
+[submodule "external/MyoMesh"]
+	path = external/MyoMesh
+	url = git@github.com:DaniDanyDani/MyoMesh.git
+[submodule "external/Cardiac_Personalisation_Brazil"]
+	path = external/Cardiac_Personalisation_Brazil
+	url = git@github.com:bergolho/Cardiac_Personalisation_Brazil.git
+[submodule "external/ZeroStressMesh"]
+	path = external/ZeroStressMesh
+	url = git@github.com:DaniDanyDani/ZeroStressMesh.git
+[submodule "external/InSilicoHeartGen"]
+	path = external/InSilicoHeartGen
+	url = https://github.com/rdoste/InSilicoHeartGen.git
