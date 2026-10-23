@@ -1,5 +1,10 @@
-imulation and raw data
-data/rawData/3D of Heart/
-results/EXPERIMENTAL/
-results/INFERENCIA/
-results/MONOALG/
+__pycache__/
+*.py[cod]
+*.nbc
+*.nbi
+.pytest_cache/
+.venv/
+results/*
+!results/.gitkeep
+bk/
+external/
